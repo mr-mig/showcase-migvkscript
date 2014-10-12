@@ -7,13 +7,16 @@ Some info
 ==========
 
 This was my first take on a serious solo javascript project.
+
 The initial repo was hosted on [Google Code](https://code.google.com/p/migvkscript)
+
 The original version was distributed throught [userscripts.org](http://userscripts-mirror.org/scripts/show/54446).
 
-Installations: `60k+`
-Active users: `5k+`
-Active community users: `2k+`
-API Breaches found and used: `10+`
+
+* Installations: `60k+`
+* Active users: `5k+`
+* Active community users: `2k+`
+* API Breaches found and used: `10+`
 
 
 What's that anyway?
@@ -21,7 +24,8 @@ What's that anyway?
 
 This was a userscript for enhancing the [vk.com](http://vk.com) user interface.
 
-I have created the features like:
+I have created features like:
+
 1. Showing who had added the user to favs
 1. Showing who had deleted the user from friends
 1. Hovering menu for fast actions
